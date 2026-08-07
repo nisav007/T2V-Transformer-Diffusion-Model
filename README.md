@@ -21,9 +21,7 @@ The framework is evaluated on two benchmark datasets:
 
 ## Architecture
 
-<p align="center">
-<img " src="https://github.com/user-attachments/assets/6f052880-4503-4292-8521-6234e77eefad" />" width="900">
-</p>
+<img width="1407" height="768" alt="Gemini_Generated_Image_wi0371wi0371wi03 (1)" src="https://github.com/user-attachments/assets/62d35d95-10dc-47ef-855a-21b7c9c330cf" />
 
 The overall pipeline consists of:
 
