@@ -1,7 +1,8 @@
 # T2V-Transformer-Diffusion-Model
 
 
-> Transformer-based latent video diffusion framework with **Temporal Cross-Layer Attention (TCLA)** for improving temporal coherence, motion continuity, and object identity preservation in generated videos.
+> Transformer-based latent video diffusion framework with **Temporal Cross-Layer Attention (TCLA)** for improving temporal coheren
+ce, motion continuity, and object identity preservation in generated videos.
 
 ---
 
@@ -21,7 +22,7 @@ The framework is evaluated on two benchmark datasets:
 ## Architecture
 
 <p align="center">
-<img src="figures/architecture.png" width="900">
+<img " src="https://github.com/user-attachments/assets/6f052880-4503-4292-8521-6234e77eefad" />" width="900">
 </p>
 
 The overall pipeline consists of:
