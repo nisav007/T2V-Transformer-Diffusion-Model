@@ -61,13 +61,14 @@ The overall pipeline consists of:
 ```text
 .
 ├── configs/
-├── datasets/
-├── models/
-│   ├── dit.py
-│   ├── dit_block.py
-│   ├── attention.py
-│   ├── cache.py
-│   └── tcla.py
+├── Datasets/
+├── Figures/
+├── Model/
+│   ├── diffution_training_S+T.py
+│   ├── diffution_training_S.py
+│   ├── generate_clip_embeddings.py
+│   ├── video_to_latent.py
+├── Results/
 ├── requirements.txt
 └── README.md
 ```
