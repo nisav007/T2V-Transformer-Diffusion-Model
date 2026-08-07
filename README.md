@@ -68,13 +68,6 @@ The overall pipeline consists of:
 │   ├── attention.py
 │   ├── cache.py
 │   └── tcla.py
-├── preprocessing/
-├── training/
-├── inference/
-├── utils/
-├── figures/
-├── checkpoints/
-├── notebooks/
 ├── requirements.txt
 └── README.md
 ```
