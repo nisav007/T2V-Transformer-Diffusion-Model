@@ -1,5 +1,5 @@
 
-# T2V-Transformer-Diffusion-Model
+# 38M Parameter T2V-Transformer-Diffusion-Model
 
 
 > Transformer-based latent video diffusion framework with **Temporal Cross-Layer Attention (TCLA)** for improving temporal coherence, motion continuity, and object identity preservation in generated videos.
