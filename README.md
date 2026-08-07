@@ -1,3 +1,4 @@
+
 # T2V-Transformer-Diffusion-Model
 
 
@@ -20,9 +21,9 @@ The framework is evaluated on two benchmark datasets:
 
 ## Architecture
 
-<p align="center">
-<img src="figures/architecture.png" width="900">
-</p>
+
+<img width="1407" height="768" alt="Gemini_Generated_Image_wi0371wi0371wi03 (1)" src="https://github.com/user-attachments/assets/789ce937-583b-4326-8f28-7031eb2f0a37" />
+
 
 The overall pipeline consists of:
 
